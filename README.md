@@ -7,4 +7,4 @@ No entanto, é importante destacar que a precisão da verificação da operadora
 Além disso, é importante lembrar que a precisão da verificação da validade do número de telefone pode ser afetada por fatores como erros de digitação ou o uso de números de telefone de outros países. Por isso, é sempre importante realizar outras verificações para garantir a precisão dos dados obtidos.
 
 Em resumo, essa solução pode ser uma ótima opção para empresas que desejam obter informações mais precisas sobre seus clientes.
-esta certo o texto
+esta certo o texto.
